@@ -1,108 +1,90 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "titulo": "Séries",
+      "link": "",
+      "cor": "#00A8E1",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Está de folga? Que tal maratonar alguma da lista!",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "DARK Temporada 3 | Trailer oficial",
+          "url": "https://www.youtube.com/watch?v=9RNHKKYJvg8"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Mr Robot Trailer Oficial",
+          "url": "https://www.youtube.com/watch?v=8qZYW_1hj2g"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Peaky Blinders | Trailer - Temporada 5",
+          "url": "https://www.youtube.com/watch?v=Uv8bfaxl9j4"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Rick and Morty Season 4 - Official Trailer",
+          "url": "https://www.youtube.com/watch?v=hl1U0bxTHbY"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Black Mirror - Esse é o mundo em que vivemos",
+          "url": "https://www.youtube.com/watch?v=M8qG0vS2zWM"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Game of Thrones | O melhor da 1ª temporada",
+          "url": "https://www.youtube.com/watch?v=1ikKwg3FHQg"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "The Office US - Trailer Oficial",
+          "url": "https://www.youtube.com/watch?v=gO8N3L_aERg"
         }        
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
+      "titulo": "Animes",
+      "cor": "#66FF01",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Está com pouco tempo livre? Anime é uma boa opção para acompanhar",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Sword Art Online Alicization War of Underworld Part 2 (Final Season) Trailer - Official PV 3",
+          "url": "https://www.youtube.com/watch?v=WI7Lk4s-77Q"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Demon Slayer - Kimetsu no Yaiba - The Movie: Mugen Train Official Trailer",
+          "url": "https://www.youtube.com/watch?v=ATJYac_dORw"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Re:ZERO ~Starting Life in Another World~ Season 2 | TRAILER OFICIAL 2",
+          "url": "https://www.youtube.com/watch?v=cs4A-vFxRt0"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Attack on Titan Final Season Trailer - Official PV「English Sub」",
+          "url": "https://www.youtube.com/watch?v=c14MVY3EVaQ"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
-        }
-      ]
-    },
-    {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
-      "videos": [
-        {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "GOBLIN SLAYER -GOBLIN'S CROWN- | TRAILER OFICIAL",
+          "url": "https://www.youtube.com/watch?v=SFMusDom-eo"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
-        },
-        {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
-        },
-        {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Sword Art Online - Official Trailer",
+          "url": "https://www.youtube.com/watch?v=6ohYYtxfDCg"
         }
       ]
     },
     {
       "titulo": "Filmes",
-      "cor": "orange",
+      "cor": "#F33C04",
+      "link_extra": {
+        "text": "Já pegou a pipoca? Só tem filmaço na lista!",
+        "url": ""
+      },
       "videos": [
+        {
+          "titulo": "BLACK MIRROR: BANDERSNATCH | Trailer Oficial Netflix (2018) Dublado HD",
+          "url": "https://www.youtube.com/watch?v=i9Wc82gCZLE"
+        },
         {
           "titulo": "Interestellar",
           "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
@@ -123,40 +105,36 @@
     },
     {
       "titulo": "Games",
-      "cor": "red",
+      "cor": "#bb0000",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Está afim de distrair? Escolhe seu game e partiu para uma jogatina",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "O BÁSICO que você DEVE SABER pra começar a jogar CSGO!",
+          "url": "https://www.youtube.com/watch?v=X4lbt7rkz9o"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Grand Theft Auto V: Vídeo oficial de gameplay",
+          "url": "https://www.youtube.com/watch?v=gHtKJ9cWCaA"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Watch Dogs 2 - Trailer de lançamento (DUBLADO)",
+          "url": "https://www.youtube.com/watch?v=qp7zjfBS5p8"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Nether Update: Official Trailer",
+          "url": "https://www.youtube.com/watch?v=1DhWXAiNgfQ"
         }
       ]
     },
     {
       "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
+      "cor": "#9400D1",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Tem interesse em tecnologia? Vídeos sobre aprendizagem para um estudo mais eficiente",
+        "url": ""
       },
       "videos": [
         {
@@ -164,20 +142,20 @@
           "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
-        },
-        {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Trabalhar com tecnologia. O que aprender em 2020?",
+          "url": "https://www.youtube.com/watch?v=EpZkzbrTaD4"
         },
         {
           "titulo": "A mágica do Aprendizado",
           "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "3 Técnicas Que Eu Uso Para Aprender a Programar Qualquer Coisa (mesmo sem ter o dom da programação)",
+          "url": "https://www.youtube.com/watch?v=ZtMzB5CoekE"
+        },
+        {
+          "titulo": "Como aprender melhor e mais fácil | Nerdologia",
+          "url": "https://www.youtube.com/watch?v=n5U83znAsbI"
         }
       ]
     }
