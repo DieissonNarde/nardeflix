@@ -28,3 +28,8 @@ a {
   display: flex;
   flex-direction: column;
 }
+
+.page404 {
+  margin: 0 auto;
+  padding: 0;
+}
